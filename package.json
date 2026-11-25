@@ -1,0 +1,8 @@
+{
+  "name": "token-radar-01",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node main.ts --input ../token-radar-prep/token-radar-01-kit/input/snapshot.json --output out"
+  }
+}
